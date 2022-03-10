@@ -12,7 +12,7 @@
 </div>
 
  <br>
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   
   <img align="center" alt="Rafa-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
@@ -32,14 +32,14 @@
   
   <img align="center" alt="Rafa-spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
  
-  
-  <img src="https://user-images.githubusercontent.com/62162703/157573403-9e94afd3-d229-4315-86e9-d88de747ede1.gif" width="250" height="250" style="border-radius=25px;"/>
-   
-
   </div>
+ 
+ 
+ <img src="https://user-images.githubusercontent.com/62162703/157573403-9e94afd3-d229-4315-86e9-d88de747ede1.gif" width="250" height="250" style="border-radius=25px;"/>
 
 <hr></hr>
-<br>
+
+
 <div>
   
   <a href="https://instagram.com/vitor.evair" style="background-color='black;'" target="_black"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
