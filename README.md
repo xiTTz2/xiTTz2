@@ -8,7 +8,7 @@
 
  <div align="center">
   
-  <img height="150em" witdh="140em" src="https://github-readme-stats.vercel.app/api?username=xiTTz2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" witdh="80em" src="https://github-readme-stats.vercel.app/api?username=xiTTz2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  
   <img height="150em" witdh="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiTTz2&layout=compact&langs_count=7&theme=dark"/>
 </div>
