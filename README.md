@@ -1,4 +1,4 @@
-## Eae! Sou Vitor Evair(xiTTz).
+## God of Galaxy!
 
  -🔭 Atualmente estudo várias linguagens, mas to com foco em java.
  - 💬 Sobre mim: Atualmente faço faculdade de Engenharia de software.
@@ -35,8 +35,12 @@
   </div>
  <!--Kylo Ren GIF -->
  <br>
- <img src="https://user-images.githubusercontent.com/62162703/157573403-9e94afd3-d229-4315-86e9-d88de747ede1.gif" width="250" height="250" style="border-radius=25px;"/>
+ <div width="1000" align="center">
 
+  <img src="https://user-images.githubusercontent.com/62162703/157573403-9e94afd3-d229-4315-86e9-d88de747ede1.gif" width="250" height="250" style="border   -radius=25px;"/>
+
+ </div>
+ 
 <hr></hr>
 
 
@@ -46,7 +50,7 @@
   <a href="https://steamcommunity.com/id/xittzlindomaravilhoso" style="background-color='black;'" target="_black"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
   
   <!-- GIF espaço -->
-   <img src="https://user-images.githubusercontent.com/62162703/157567790-5e173ac7-8f69-4451-a087-af50550055ee.gif" width="1000" height="400"/>
+   <img src="https://user-images.githubusercontent.com/62162703/157698437-80770c2f-4546-4e00-957a-4fb23a472713.gif" width="1000" height="400"/>
   
   
 </div>
