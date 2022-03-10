@@ -9,7 +9,7 @@
 <!-- Porcentagem das linguagens usadas -->
  <div align="center">
    <a href="https://github.com/xiTTz2">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiTTz2&layout=compact&langs_count=7&theme=dark"/>
+  <img height="200em" width="4000em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiTTz2&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
  <br>
@@ -36,9 +36,9 @@
   </div>
  <!--Kylo Ren GIF -->
  <br>
- <div width="1000" align="center">
+ <div  width="1000" align="center">
 
-  <img style="border-radius:50px;" src="https://user-images.githubusercontent.com/62162703/157573403-9e94afd3-d229-4315-86e9-d88de747ede1.gif"  width="250" height="250"/>
+  <img style="border-radius:30px" src="https://user-images.githubusercontent.com/62162703/157573403-9e94afd3-d229-4315-86e9-d88de747ede1.gif"  width="250" height="250"/>
 
  </div>
  
