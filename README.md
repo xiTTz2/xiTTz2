@@ -1,5 +1,6 @@
 ## God of Galaxy!
 
+ 
  -🔭 Atualmente estudo várias linguagens, mas to com foco em java.
  - 💬 Sobre mim: Atualmente faço faculdade de Engenharia de software.
  - Já tenho um curso do SENAI na área de Desenvolvimento de sistemas.
