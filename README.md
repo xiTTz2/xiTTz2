@@ -34,7 +34,7 @@
  
   </div>
  
- 
+ <br>
  <img src="https://user-images.githubusercontent.com/62162703/157573403-9e94afd3-d229-4315-86e9-d88de747ede1.gif" width="250" height="250" style="border-radius=25px;"/>
 
 <hr></hr>
