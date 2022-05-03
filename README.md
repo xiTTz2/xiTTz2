@@ -1,10 +1,10 @@
 ## 🌠 Vitor Evair Sima 🌠
 
  
- -🔭 Atualmente estudo várias linguagens, mas to com foco em java.
+ -🔭 Atualmente estudo várias linguagens, mas estou com foco em java.
  - 💬 Sobre mim: Atualmente faço faculdade de Engenharia de software.
  - Já tenho um curso do SENAI na área de Desenvolvimento de sistemas.
- - Sei mexer com C#, JAVA, Typescript, JavaScript, CSS, SCSS e HTML.
+ - Experiência com C#, JAVA, Typescript, JavaScript, CSS, SCSS e HTML.
 
 <!-- Porcentagem das linguagens usadas -->
  <div align="center">
