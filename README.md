@@ -2,8 +2,8 @@
 
  - 💬 Sobre mim:
    
- - Atualmente estou estudando flutter.
- - Tenho curso do SENAI na área de Desenvolvimento de sistemas.
+ - Atualmente estou estudando Web.
+ - Formado no SENAI na área de Desenvolvimento de sistemas.
  - Experiência com JAVA, Typescript, JavaScript, CSS e HTML.
 
 <!-- Porcentagem das linguagens usadas -->
