@@ -42,7 +42,7 @@
 <div>
   <!--Redes sociais instagram e steam -->
   <a href="https://instagram.com/vitor.evair" style="background-color='black;'" target="_black"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://steamcommunity.com/id/xittzlindomaravilhoso" style="background-color='black;'" target="_black"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+ 
   
   <!-- GIF espaço -->
    <img style="border-radius:30px;" src="https://user-images.githubusercontent.com/62162703/157698437-80770c2f-4546-4e00-957a-4fb23a472713.gif" width="1000" height="400"/>
