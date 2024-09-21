@@ -9,7 +9,7 @@
 <!-- Porcentagem das linguagens usadas -->
  <div align="center">
    <a href="https://github.com/xiTTz2">
-  <img height="200em" width="4000em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiTTz2&layout=compact&langs_count=7&theme=dark"/>
+  <img height="200em" width="4000em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiTTz2&layout=compact&langs_count=7&theme=gruvbox&locale=pt-br"/>
 </div>
 
  <br>
