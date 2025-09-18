@@ -4,7 +4,8 @@
    
  - Atualmente estou estudando Web.
  - Formado no SENAI na área de Desenvolvimento de sistemas.
- - Experiência com JAVA, Typescript, JavaScript, CSS e HTML.
+ - Experiência com Python, JavaScript, CSS e HTML.
+ - Framework: React, NodeJS
 
 <!-- Porcentagem das linguagens usadas -->
  <div align="center">
