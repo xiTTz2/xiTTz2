@@ -7,12 +7,6 @@
  - Experiência com Python, JavaScript, CSS e HTML.
  - Framework: React, NodeJS
 
-<!-- Porcentagem das linguagens usadas -->
- <div align="center">
-   <a href="https://github.com/xiTTz2">
-  <img height="200em" width="4000em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiTTz2&layout=compact&langs_count=7&theme=gruvbox&locale=pt-br"/>
-</div>
-
  <br>
 <div style="display: inline_block" align="center"><br>
   <!--Linguagens usadas -->
